@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://user-images.githubusercontent.com/49719371/127297177-37354b4d-691c-4749-b117-7833d87e1774.gif)
+
   
 </div>
 
