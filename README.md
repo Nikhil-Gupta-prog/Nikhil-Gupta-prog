@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikhil Gupta [Portfolio][website] 👋
 
-[![Website](https://nikhilguptaprog.netlify.app/)
+[![Website](https://nikhilguptaprog.netlify.app/)]
 
 
 ## I'm a MERN Stack Developer!!
