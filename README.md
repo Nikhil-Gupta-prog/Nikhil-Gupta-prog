@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikhil Gupta [Portfolio][website] 👋
 
 
-[![Website](https://img.shields.io/website?label=Nikhil Gupta&style=for-the-badge&url=https%3A%2F%2Fnikhilguptaprog.netlify.app/)](https://nikhilguptaprog.netlify.app/)
+[![Website](https://img.shields.io/website?label=NikhilGupta&style=for-the-badge&url=https%3A%2F%2Fnikhilguptaprog.netlify.app/)](https://nikhilguptaprog.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Nikhil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Nikhiiiiiilll?s=09)
 
 
