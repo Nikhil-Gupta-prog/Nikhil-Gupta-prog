@@ -1,6 +1,6 @@
 <div align="center">
 
-![Poster](https://github.com/Nikhil-Gupta-prog/Nikhil-Gupta-prog/blob/1de59e4d3b331a9944432519999dc3298215bf11/nikhil%20Gupta.mp4)
+![Poster]https://github.com/Nikhil-Gupta-prog/Nikhil-Gupta-prog/blob/4e6fb76753bf6c6cbfa1e5ddffc322370f1bd4d9/nikhil%20Gupta.gif)
   
 </div>
 
