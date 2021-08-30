@@ -1,6 +1,6 @@
 <div align="center">
 
-![Poster](nikhil Gupta.mp4)
+![Poster](https://github.com/Nikhil-Gupta-prog/Nikhil-Gupta-prog/blob/1de59e4d3b331a9944432519999dc3298215bf11/nikhil%20Gupta.mp4)
   
 </div>
 
