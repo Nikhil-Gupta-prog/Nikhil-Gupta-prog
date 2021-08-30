@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikhil Gupta [Portfolio][website] 👋
 
-[![Website](https://nikhilguptaprog.netlify.app/)]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fnikhilguptaprog.netlify.app/)](https://nikhilguptaprog.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nikhil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Nikhil&screen_name=Nikhil)
+
+[![Website](https://img.shields.io/website?label=Nikhil Gupta&style=for-the-badge&url=https%3A%2F%2Fnikhilguptaprog.netlify.app/)](https://nikhilguptaprog.netlify.app/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nikhil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Nikhiiiiiilll?s=09)
 
 
 ## I'm a MERN Stack Developer!!
@@ -48,6 +48,6 @@
 
 [twitter]: https://twitter.com/Nikhiiiiiilll?s=09
 
-[instagram]: https://instagram.com/nikhilkh5156
+[instagram]:https://instagram.com/nikhilkh5156?igshid=dddwbmb5ryna
 [linkedin]: https://www.linkedin.com/in/nikhil-gupta-3a6a44183/
 
