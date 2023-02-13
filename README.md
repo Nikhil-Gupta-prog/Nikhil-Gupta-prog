@@ -1,6 +1,6 @@
 <div align="center">
 
-![Poster](https://github.com/Nikhil-Gupta-prog/Nikhil-Gupta-prog/blob/93956f00361bd71a5a1ab465960459fac17f2e0a/GitHub_profile_banner.gif)
+[Poster](https://github.com/Nikhil-Gupta-prog/Nikhil-Gupta-prog/blob/93956f00361bd71a5a1ab465960459fac17f2e0a/GitHub_profile_banner.gif)
   
 </div>
 
