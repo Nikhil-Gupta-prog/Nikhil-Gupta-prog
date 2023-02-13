@@ -15,10 +15,9 @@
 ## I'm a MERN Stack Developer!!
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute in Open Source projects
-- ⚡ Fun fact: I love to play Cricket
+
 
 ### Connect with me:
 
