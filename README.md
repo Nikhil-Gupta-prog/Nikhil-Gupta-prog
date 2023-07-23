@@ -15,8 +15,8 @@
 ## I'm a MERN Stack Developer!!
 
 
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other Developers
+- 🌱 Crafting Web Wonders with MongoDB, Express, React, and Node.js
+- 👯 Adaptable and Passionate Software Engineer: Embracing Learning and Leading with a Strong Work Ethic
 
 
 ### Connect with me:
